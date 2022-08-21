@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ps28
 {
     internal class Program
-    {
+    { 
         static void Main(string[] args)
         {
             int i, sum = 0;
