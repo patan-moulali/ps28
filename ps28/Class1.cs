@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ps28
-{
+{//this is a command
     internal class Class1
     {
         static void Main(string[] args);
